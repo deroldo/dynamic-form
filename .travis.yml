@@ -6,4 +6,4 @@ after_success:
   - coveralls
 
 ## Run Integration tests
-script: "mvn test && mvn verify"
+script: "mvn test && mvn coveralls:report"
