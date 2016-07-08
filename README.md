@@ -16,7 +16,6 @@ API REST de geração de formulários e respostas.
 - Mockito
 - MockMvc
 - Embedded mongo (test)
-- 100% de cobertura em branch, line e method
 
 ##Requisitos:
 - Java 8
