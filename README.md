@@ -1,6 +1,7 @@
 # dynamic-form
 
 [![Build Status](https://travis-ci.org/deroldo/dynamic-form.svg)](https://travis-ci.org/deroldo/dynamic-form)
+[![Coverage Status](https://coveralls.io/repos/github/deroldo/dynamic-form/badge.svg?branch=master)](https://coveralls.io/github/deroldo/dynamic-form?branch=master)
 
 ## Sistema:
 API REST de geração de formulários e respostas.
