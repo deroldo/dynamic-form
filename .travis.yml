@@ -1,6 +1,9 @@
 language: java
 jdk:
   - oraclejdk8
+  
+after_success:
+  - coveralls
 
 ## Run Integration tests
 script: "mvn test && mvn verify"
