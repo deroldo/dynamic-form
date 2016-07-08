@@ -24,10 +24,10 @@ API REST de geração de formulários e respostas.
 ##RUN:
 No diretorio da aplicação executar:
 ```
-- mvn spring-boot:run
+mvn spring-boot:run
 ```
 ou
 ```
-- mvn clean install
-- java -jar target/dynamic-form-0.0.1-SNAPSHOT.jar
+mvn clean install
+java -jar target/dynamic-form-0.0.1-SNAPSHOT.jar
 ```
