@@ -107,7 +107,7 @@
 				<executions>
 					<execution>
 						<id>jacoco-site</id>
-						<phase>verify</phase>
+						<phase>test</phase>
 						<goals>
 							<goal>report</goal>
 						</goals>
